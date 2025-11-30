@@ -70,7 +70,7 @@ Counter App/
 
 ## Screenshots
 
-![./Assets/web-ss.png]
+![Counter App Screenshot](./Assets/web-ss.png)
 
 Example:
 
