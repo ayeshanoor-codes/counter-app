@@ -69,7 +69,7 @@ Counter App/
 
 ![Counter App Screenshot](./Assets/web-ss.png)
 
-Example:
+---
 
 
 ## Author
